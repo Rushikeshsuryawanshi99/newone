@@ -7,4 +7,4 @@
     - 
       name: 'creating file using variable'
       command: touch /tmp/18.txt
-      when: age == 18
+      when: age == 17
